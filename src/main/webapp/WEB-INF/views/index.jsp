@@ -5,5 +5,8 @@
 </head>
 <body>
 <h1>Hello</h1>
+
+<a href="${pageContext.request.contextPath}/product/list">Products</a>
+
 </body>
 </html>
